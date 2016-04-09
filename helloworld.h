@@ -8,6 +8,7 @@ extern "C"
 #endif
 
 void main();
+int add();
 
 int del(int ori, int del);
 
