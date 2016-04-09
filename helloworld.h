@@ -9,6 +9,8 @@ extern "C"
 
 void main();
 
+int del(int ori, int del);
+
 #ifdef __CPLUSS__
 extern "C"
 #endif

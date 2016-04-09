@@ -7,3 +7,7 @@ void main()
 	count = 100;
 	count--;
 }
+int del(int ori, int del)
+{
+	return ori - del;
+}
