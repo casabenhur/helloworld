@@ -23,3 +23,9 @@ int add()
 	}
 	return i;
 }
+
+int fun1()
+{
+	reutnr 0;
+}
+
