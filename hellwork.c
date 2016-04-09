@@ -8,10 +8,10 @@ void main()
 	count--;
 }
 
-//int del(int ori, int del)
-//{
-//	return ori - del;
-//}
+int del(int ori, int del)
+{
+	return ori - del;
+}
 
 
 int add()
