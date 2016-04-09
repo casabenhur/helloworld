@@ -8,6 +8,7 @@ extern "C"
 #endif
 
 void main();
+int add();
 
 #ifdef __CPLUSS__
 extern "C"
